@@ -13,24 +13,23 @@
 [Testing](#Testing)  
 [Questions](#Questions)  
 
-## Workout Tracker
+## Budget Tracker App
+This app allows you to enter in expenses and deposits to track your budget. If you are offline it will still allow you to enter your expenses and deposits and will cache the database to update when you go online.
 
 ## Links
-
-
+GitHub Repo: https://github.com/israelvarela/Budget-Tracker  
+Heroku: https://iv-budgettrackerapp.herokuapp.com/
 
 ## Description 
-
-
+Budget tracker application that allows a user to track expenses and deposits. 
 
 ## Screenshots
 
 ## Installation
-
+Created this MVC application using data stored in a NoSQL Mongo database using Service Workers and IndexedDB technologies.  Deployed to Heroku for live rendering.
   
-
 ## Usage
-
+User is able to track expenses and deposits. When offline data is cached until user goes online to update the database.
   
 
 ## License
@@ -42,7 +41,7 @@
   Israel Varela
 
 ## Testing
-
+Testing done on localhost Port as well as Heroku to verify functionality of the application.
 
 ## Questions
 
