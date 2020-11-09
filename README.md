@@ -24,6 +24,7 @@ Heroku: https://iv-budgettrackerapp.herokuapp.com/
 Budget tracker application that allows a user to track expenses and deposits. 
 
 ## Screenshots
+![Screen Shot 2020-11-08 at 6 20 06 PM](https://user-images.githubusercontent.com/62815477/98488932-71804a00-21f1-11eb-8f19-4adceeded53f.png)
 
 ## Installation
 Created this MVC application using data stored in a NoSQL Mongo database using Service Workers and IndexedDB technologies.  Deployed to Heroku for live rendering.
